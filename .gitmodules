@@ -4,3 +4,6 @@
 [submodule "footer"]
 	path = footer
 	url = https://github.com/sample-microservices-demo/footer.git
+[submodule "msg"]
+	path = msg
+	url = https://github.com/sample-microservices-demo/msg.git
